@@ -13,11 +13,15 @@ NOTES: We didn't finish everything we wanted and because this game is also a par
 #### Credits:
 
 - Sour: Art / Coding
+
 Youtube: https://www.youtube.com/@sour3747
+
 Twitch: https://www.twitch.tv/imnotsour
 
 - Szyfr: Coding
+
 Youtube: https://www.youtube.com/channel/UCXXBoCcoYQY1mxcg-oNjAfw/
+
 Github: https://github.com/szyfr
 
 
